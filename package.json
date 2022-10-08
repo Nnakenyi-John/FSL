@@ -39,7 +39,6 @@
   },
   "devDependencies": {
     "node-sass": "^7.0.3",
-    "prettier": "2.7.1",
     "rebuild-node-sass": "^1.1.0"
   }
 }
